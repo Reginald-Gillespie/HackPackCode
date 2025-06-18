@@ -1,0 +1,7 @@
+.vscode
+
+# Old code files if I change something and expect it to break or stuff
+Code_*
+
+# Script I wrote to pull all these files from the IDE
+generate.js
