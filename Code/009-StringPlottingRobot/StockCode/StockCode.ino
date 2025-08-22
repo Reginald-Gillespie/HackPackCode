@@ -699,10 +699,10 @@ bool moveBot(){
   //Serial.print("actual y pos: ");
   //Serial.println(Plotter.currentCoords[1]);
 
-  Serial.print("left length to-go: ");
-  Serial.println(Plotter.nextLengths[0] - Plotter.currentLengths[0]);
-  Serial.print("right length to-go: ");
-  Serial.println(Plotter.nextLengths[1] - Plotter.currentLengths[1]);
+  //Serial.print("left length to-go: ");
+  //Serial.println(Plotter.nextLengths[0] - Plotter.currentLengths[0]);
+  //Serial.print("right length to-go: ");
+  //Serial.println(Plotter.nextLengths[1] - Plotter.currentLengths[1]);
   
 
   //Disables pen when moving to start point, and when drawing is finished
