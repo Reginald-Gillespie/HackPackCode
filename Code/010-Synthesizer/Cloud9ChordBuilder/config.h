@@ -74,7 +74,7 @@
 #define POT_PIN3 A7                      // Top potentiometer - Swing control
 
 // Proximity sensor pin (digital input)
-#define PROX_PIN 2                       // Proximity sensor for fidget spinner detection
+#define PROX_PIN 6                       // Proximity sensor for fidget spinner detection
 
 // Touchpad pins (resistive touchpad interface)
 #define TOUCHPAD_Y1 A1                   // Touchpad Y coordinate pin 1

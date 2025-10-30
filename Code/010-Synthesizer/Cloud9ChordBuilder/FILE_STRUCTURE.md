@@ -6,7 +6,7 @@ The synthesizer code has been reorganized into a modular structure for better ma
 ## File Structure
 
 ### 📁 **Main Files**
-- **`Cloud9CordBuilder.ino`** - Main Arduino sketch file
+- **`Cloud9ChordBuilder.ino`** - Main Arduino sketch file
   - Contains setup(), loop(), updateControl()
   - Global variable declarations
   - Smooth object initialization

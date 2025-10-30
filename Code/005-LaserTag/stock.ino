@@ -46,10 +46,10 @@
 //////////////////////////////////////////////////
 #pragma region LIBRARIES
 #define DECODE_NEC          // defines IR Protocol (Apple and Onkyo)
-
-#include <IRremote.hpp>   
+ 
 #include <Arduino.h>
 #include <Servo.h>
+#include <IRremote.hpp>
 
 Servo myservo;
 

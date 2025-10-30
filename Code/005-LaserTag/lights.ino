@@ -55,10 +55,10 @@
 #pragma region LIBRARIES
 #define DECODE_NEC          // defines RIR Protocol (Apple and Onkyo)
 
-#include <IRremote.hpp>   
-#include <Adafruit_NeoPixel.h>  
+  #include <Adafruit_NeoPixel.h>  
 #include <Arduino.h>
 #include <Servo.h>
+#include <IRremote.hpp>
 
 Adafruit_NeoPixel strip(LED_COUNT, LED_PIN, NEO_GRB + NEO_KHZ800);
 Servo myservo;
